@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+for i in range(9223372036854775807):
+  print "%d long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message long log message " % i
